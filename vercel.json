@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "$URL/$1",
+      "destination": "https://initial-collapse-realtors-observations.trycloudflare.com/$1",
       "permanent": false
     }
   ]
