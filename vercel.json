@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "$URL/$1",
+      "permanent": false
+    }
+  ]
+}
