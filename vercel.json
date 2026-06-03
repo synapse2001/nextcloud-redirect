@@ -1,9 +1,9 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://initial-collapse-realtors-observations.trycloudflare.com/$1",
-      "permanent": false
-    }
-  ]
-}
+    "redirects": [
+      {
+        "source": "/(.*)",
+        "destination": "https://scenes-kills-album-regime.trycloudflare.com/$1",
+        "permanent": false
+      }
+    ]
+  }
