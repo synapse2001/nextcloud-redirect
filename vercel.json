@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://currency-blond-genealogy-poet.trycloudflare.com/$1",
+        "destination": "https://jason-terminology-unless-points.trycloudflare.com/$1",
         "permanent": false
       }
     ]
