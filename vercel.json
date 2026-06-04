@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://clark-school-rights-philosophy.trycloudflare.com/$1",
+        "destination": "https://ham-introducing-marine-crystal.trycloudflare.com/$1",
         "permanent": false
       }
     ]
