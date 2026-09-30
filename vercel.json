@@ -2,7 +2,7 @@
     "redirects": [
       {
         "source": "/(.*)",
-        "destination": "https://street-surrey-pixels-cabinets.trycloudflare.com/$1",
+        "destination": "https://she-appointments-fine-bond.trycloudflare.com/$1",
         "permanent": false
       }
     ]
